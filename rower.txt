@@ -12,6 +12,15 @@ Każdy rozdział posiada na początku streszczenie wraz z odsyłaczami, tak aby�
 
 4. Jak kupować rower.
 
+Streszczenie:
+- nie kupuj rowera w hipermarkecie
+- unikaj mitu przerzutki jak ognia
+- kazdy z typow roweru jest zaprojektowany do konkretnego zastosowania, zastanow sie do czego najczesciej wykorzystujesz rower
+- okresl jak czesto bedziesz korzystal z roweru, komponenty maja swoją ogranicznoną zywotność, nie warto inwestowac duzych kwot jesli będziesz uzywał roweru tylko od czasu do czasu
+- pamietaj ze rowery roznych producentów różnia sie tylko osprzętem, wiec ich cena powinna być podobna jesli maja osprzet podobnej klasy
+- nie zawsze drogie znaczy dobre, sprawdz czy mozesz zaufac sprzedawcy
+- przed zakupem koniecznie przymierz rower do swojej sylwetki i sprawdz czy odpowiada ci sposob w jaki sie prowadzi, przez internet kupuj tylko wtedy gdy wczesniej przymierzyles rower
+
 4.1 Jakiego roweru potrzebuje
 
 Po pierwsze chciałbym zaznaczyć że z pewnością nie opisze wszystkich typów rowerów jakie istnieją, albowiem do każdej odmiany sportu rowerowego stosuje się inny rower a odmian tych jest naprawde dużo. W puźniejszej czesci skupimy się na rowerach MTB, potocznie zwanych "górskimi". 
@@ -123,13 +132,13 @@ Rower sklada sie w uproszczeniu z ramy i osprzętu. Rame wytwarza zazwyczaj koń
 DLa przykładu osprzęt wytwarzają firmy takie jak SRAM, Shimano (elementy napedu) Avid, Magura (hamulce) Fox, RockShock, Marzocchi (amortyzacja) i wiele wiele (naprawde wiele) innych. Teraz co robi producent rowerów taki jak Giant, Ghost, Trek, Kross, Cannondale, Spetialized (tu znowu wiele wiele wiele nazw) ?
 Ano postepują wg algorytmu
 - określić rodzaj roweru i grupe docelowa (wiek, zasobność portfela, typ roweru)
-- dobrać syiary rurek z których sklada sie rama, pospawać i mieścic na niej napisy, (duzo duzo ... duzo napisów z nasza marka)
+- dobrać wymiary rurek z których sklada sie rama, pospawać i umieścic na niej napisy, (najlepiej zeby byly ladne kolorki i duzo duzo ... duzo napisów z marka)
 - dobrać osprzęt od innych firm tak aby wyrobić sie w budrzecie
 - dodać marże tak aby sie opłacało (taaak to też jest jeden z obowiązkowyh punktów)
 - rozreklamować
 - sprzedać
 Teraz ... zastanów się gdzie w tym wszystkim jest twoje dobro jako klienta ? Ano właśnie ... Trzeba być na tyle rozeznanym w temacie aby nie dać się nabić w butelke producenta i sprzedawcy peplającego te same głupoty do 10 już z kolei klienta który przyszedł kupic jakis ROWER. Najlepsze jest to że jedyną wartością dodaną producenta (podkreśle śmieszność tego słowa) roweru jest lakier na ramie i napisy (bo nawet czasami taki producent nie zaprojektuje tej ramy tylko wykorzysta ogulnie znany wzorzec nie dodając nic od siebie).
-Dlatego warto się zastanowić, czy to za co płacimy czyli napis na ramie jest warty różnicy jakości komponentów które otrzymujemy w zamian. Rowery znanych marek różnią się od siebie głównie doborem komponentów. Jeszcze raz zaznaczam, są to te same komponenty innych znanych marek które jednak nie wytwarzają całych rowerów a tylko daną częsć.
+Rowery znanych marek różnią się od siebie głównie doborem komponentów. Dlatego warto się zastanowić, czy cena jest adekwatna do jakości komponentów które otrzymujemy w zamian. Jeszcze raz zaznaczam, komponenty innych znanych marek które jednak nie wytwarzają całych rowerów a tylko daną częsć.
 Jest jeszcze jeden proceder który jest wart opisania tutaj. Czasami "skladacze" producenci kupują prawo do umieszczenia włąsnego logo na częściach wytwórców komponentów/osprzętu. I tak można się spotkac z hamulcami Trek czy amortyzatorami tak egzotycznych firm jak Decatlon (fuuu!!). Są to często zuborzone wersje markowych produktów różniące sie od pierwowzoru jakimiś szczegółem lub uproszczoną budowa, pomalowane i podpisane logiem ostatecznego producenta. Marketingu w tym wiecej niż sensu, bo koncowy klient ma wrażenie że np Decatlon produkuje swoje rowery od podstaw. Decatlon nie ma odpowiedniego doświadczenia aby projektować własne komponenty a nawet gdyby mial to nie posiada odpowiednich fabryk, sztabu testowego i wszystkiego co jest potrzebne do stworzenia produktu (np amortyzatora). Decatlonowi poprostu sie to nie opłaca, natomiast opłaca sie mu za niewielką opłata umieścic swoje napisy na komponentach aby podnieść wiarygodność swojej marki. Zreszta Decatlon nie jest wyjątkiem w tej materi.
 
 4.5 Ile wydać na rower ?
@@ -177,11 +186,16 @@ Czasami warto sprawdzic czy sprzedawca zna sie na rzeczy raz czy nie prubuje nam
 - alternatywa poprzedniego pytania jest: czy łańcuch jest również Shimano tak jak kaseta ? Chodzi o to że na rynku jest dwoje potentatów w kwesti produkcji częsci do napędu tj Shimano i SRAM (kiedyś była to marka Truvativ). Kazdy z tych producentow walczy o rynek i jak łatwo się domysleć kazdy z nich produkuje swoj standard tj elementy SHimano nie sa kompatybilne z elementami SRAM. Nie powinno sie np montować łańcucha SRAM do kasety Shimano i na odwrot. Powodem tego są małe nacięcia na łańcuchu i kasecie oraz blatach korby (przyjrzyj sie dokladnie to je zauważysz, tak te nieregularne nacięcia na ząbkach kasety to własnie one). Te nacięcia pomagają łańcuchowi łatwiej przechodzić między przełożeniami. Jeśli nacienia na łańcuchu nie będa pasować do systemu nacięc na kasecie całość nie bedzie pracowała jak nalezy. Ważna uwagą jest tez to że te nacienia róznia się miedzy grupami osprzetu i tak w Alivio jest ono inne niż w Deore które z kolei jest inne niz w XT. Jest to drugi powod dlaczego powinno się stosować zalecany łąńcuch. (tak dokladnie to Łańcuch HG-53 jest kompatybilny z systemem HyperGlide Shinano tak jak HG-93 ale chodzilo mi o generalna zasade).
 - czy piasty są na łożyskach maszynowych ? albo nawet lepiej w formie twierdzącej, Piasty są na łożyskach maszynowych ? :) Prawda jest taka że żadko się zdarza aby była to prawda. Wiekszość producentów buduje rowery na tanich kołach na piastah zaopatrzonych w łożyska kulkowe. Problem w tym jest taki ze piasty te wymagaja serwisowania tj, czyszczenia i smarowania oraz regulacji aby działaly dlugo i lekko się kreciły. Nikt oczywiście nie ma na to czasu. Dlatego własnie piasty na łożyskach maszynowych są wg mnie o wiele lepszym rozwiazaniem. Poza tym że nie wymagają serwicu (sa nierozbieralne) to jeszcze posiadają o wiele lepsze uszczelnienia. MOzna spokojnie przechecjać rowerem z piastami maszynowymi przez wode (bez przesadnego zanurzania) i nic sie nie stanie. W tańszych rowerach po takiej zabawie mamy gwarantowane piasty do wymiany, ponieważ woda wprowadza katastrofalne w skutkach zniszczenia od korozji (rdza) na bierzniach piast kulkowych o słabych uszczelnieniach. W pytaniu tym łatwo też wyłapac kłamstwo sprzedawcy bo Shimano nie produkuje piast na łożyskach maszynowych. Uparli się i ich polityka jest taka że piasty na łożyskach zaopatrzonych w kulki można wyregulować tak że będą sie toczyły praktycznie bez oporu. Jest to prawda ale niestety tylko w droższych modelach piast Shimano. W tanich modelach (poniżej Deore) piasty Shimano są praktycznie nieuszczelnione (przynajmniej w rowerach ktore serwisowałem tj z ok 2007 roku tak sytuacja wygladała). Jesli wiec sprzedawca odpowie TAK a piasty beda Shimano to mamy pewność ze nie ma on bladego pojecia o czym mowi a tylko prubuje wcisnać nam rower ze swojego sklepu.
 
-5 Podstawowe grzechy producentów/skladaczy rowerów
+4.6 Podstawowe grzechy producentów/skladaczy rowerów
 
 - Przerzutki TopSwing 
 - zla wysokość montarzu przerzutki- extremum moj Trek
 - przerzutka tylna wyznacznikiem jakosci roweru
 - miejsce montarzu jednopalcowych klamek hamulcowych
 - korby na kwadrat
+
+4.7 Najczesciej zadawane pytania
+
+Jesli masz jakies wyslij je emailem
+
 
