@@ -1,4 +1,4 @@
-1. Wstęp
+﻿1. Wstęp
 
 1.1 Po co ta strona.
 
@@ -78,28 +78,27 @@ Minusy
 - niewielki zakres możliwości modyfikacji o akcesoria (poza bidonem :P)
 - drogi
 
-- rower dla kuriera i szybkich dojazdow do pracy - ostatnimi czasy pojawiły się rowery podobne do rowerów szosowych ale przystosowane do jazdy w miescie. Do tej kategori zaliczam też rowery kurierów, tak zwane "z ostrym kołem". Nazwa bierze się z faktu ze aby jechac na takim rowerze należy caly czas pedalować. Innymi slowy rower ten nie posiada "wolnego biegu". Rower ten czesto nie posiada również hamulca!!!. Ot aby sie zatrzymac trzeba przeciwdziałac pedałowaniu :). Rowery tego typu produkowane przez znane firmy często często posiadają jednak wolnobieg, głownie ze wzgledu na to że w Polskim prawie rower musi posiadać hamulec. Uwaga, oderwanie nóg od pedałów na takim rowerze w czasie jazdy może skonczyc się wypadkiem, ponieważ nie będziemy w stanie ponownie ich na pedałach położyć a tym samym sie zatrzymać!! Główna cecha wspólna tych rowerów jest kompletny brak zbednych akcesoriów. Przez to rower jest bardzo lekki a przy tym niezwyke efektywny energetycznie. O ile chcemy poruszać się po jezdni a nie po naszych Polskich pseudo "scieżkach rowerowych" będzie to najszybszy rower na miasto.
+- rower dla kuriera – typowy rower dla kuriera to tak zwany rower z ostrym kołem. Jest to rower trudny w prowadzeniu dlatego ostatnimi czasy pojawiły się rowery o podobnej budowie ale z wolnobiegiem. Ostre koło to określenie połączenia między korbowodem a kołem które łączy je na stałe i nie pozwala na (kolokwialnie mówiąc) swobodne kręcenie pedałami do tyłu. Innymi słowy rower ten nie posiada "wolnego biegu" i podczas jazdy konieczne jest ciągłe obracanie pedałami. Rower ten często nie posiada również hamulca!!!. Ot aby się zatrzymać trzeba przeciwdziałać pedałowaniu :). Z tego też powodu nadmienione wcześniej odmiany rowerów przeznaczone na rynek konsumencki często często posiadają wolnobieg zachowując pozostałe elementy budowy tj mocno nachyloną sylwetkę rowerzysty podobna do roweru szosowego oraz minimalistyczne wyposażenie. Przez to rower jest bardzo lekki a przy tym niezwykle efektywny energetycznie. O ile chcemy poruszać się po jezdni a nie po naszych Polskich pseudo "ścieżkach rowerowych" będzie to najszybszy rower na miasto.
 Plusy
 - ultra lekki
-- relatywnie tani (o ile nie zamontujemy super drogich komponentow, czesto robia tak kurierzy np aby jeszcze bardziej ograniczyć tarcie łożysk)
-- zwrotniejszy od roweru szosowego a jednoczesnie nadal szybki, srednia predkośc ok 40km/h
+- relatywnie tani (o ile nie zamontujemy super drogich komponentów, często robią tak kurierzy np aby poprawić osiągi, zmniejszyć wagę itp)
+- zwrotniejszy od roweru szosowego a jednocześnie nadal szybki, średnia prędkość ok 40km/h
 Minusy
-- wymaga doświadczenia aby w pelni wykorzystać jego możliwości
-- mocno pochylona sylwetka
-- musimy jeżdzić po równych nawierzchniach (wąskie opony)
+- wymaga doświadczenia aby sprawnie się nim poruszać
+- mocno pochylona sylwetka nieco ogranicza widoczność
+- musimy jeździć po równych nawierzchniach (wąskie opony), opony narażone na przebicie lub oślizgnięcie na mokrych lub sypkich nawierzchniach
 
-- rower uniwersalny MTB, tak zwany potocznie "góral" do jazdy rekraacyjnej (celowo nie pisze tani bo czesto okazuje się że często kosztują duzo za dużo jak na swoja jakość)
-Rower taki wymusza pochylona sylwetke rowerzysty pozostawiając jednak wystarczająco wygody. Rower ten posiada stosunkowo szerokie opony co pozwala stosować go od miasta do bezdroży a nawet używać go w naszych Polskich górach (np beskidy). Często rowery takie łatwo odrużnić od ich bardziej sportowego brata wysokościa mostka (część łącząca kierownice z rurą sterowa). Im wyższy mostek tym większe prawdopodobieństo że producent celował w grupe użytkowniĸów dopiero zaczynających przygode ze sportem MTB. Standardem w takich roweruch jest aluminiowa rama z duzymi przekrojami rur, przerzutki i amortyzator przedni.
+- rower uniwersalny MTB, tak zwany potocznie "góral" do jazdy rekreacyjnej
+Rower taki wymusza pochylona sylwetkę rowerzysty pozostawiając jednak wystarczająco wygody. Rower ten posiada stosunkowo szerokie opony co pozwala stosować go zarówno w mieście jak i na bezdrożach oraz łatwiejszych pasmach gór (np Beskidy). Rowery te przeznaczone są dla osób rozpoczynających przygodę ze sportem MTB przez to budowane są z przystępnych cenowo komponentów oraz posiadają mniej agresywna sylwetkę (bardziej wyprostowana pozycja rowerzysty). Łatwo odróżnić je od ich bardziej sportowego brata wysokością zastosowanego mostka i giętą kierownica (aby wyprostować pozycje rowerzysty używa się mostków i kierownicy z tak zwanym wzniosem, efektem jest położenie chwytów kierownicy powyżej siodła i tym samym bardziej wyprostowana pozycja rowerzysty). Standardem w takich rowerach jest aluminiowa rama z dużymi przekrojami rur, przerzutki tylne jak i przednie (w konfiguracji 3 x 8-10) oraz amortyzator przedni.
 Zalety
-- najbardziej uniwersalny rower (możesz nim bez przeszkod jezdzic do pracy, pokonując kraweżniki a w weekend jechać na miasto lub w niewielkie gorki)
-- srednia waga (ok 14-12kg)
+- najbardziej uniwersalny rower (możesz nim bez przeszkód jeździć do pracy, w sam raz nadaje się na Polskie nierówne pseudo ścieżki rowerowe i do pokonywania rozdzielających ich krawężników, a w weekend jechać nim za miasto lub w niewielkie górki)
+- średnia waga (ok 14-12kg)
 - relatywnie tani
 Wady
 - nie jest tak wygodny jak rower miejski
 - mniej wydajny energetycznie od roweru szosowego i trekingowego
-- najbardziej rozpowszechniony rower w sprzedarzy, co powoduje że producenci zalewają rynek produktami marnej jakości (uważaj przy zakupie)
-
-- rowery do uprawiania sportu na poziomie amatorskim, głownie przeznaczone do jazdy w górach, o tych własnie roweruch bede pisał najwiecej. Charakteryzują się one niska waga, wytrzymałymi komponetami (odpornymi na wode, kurz itp), agresywna pozycja rowerzysty pozwalającą na uzyskanie dużych sił a tym samym łatwym pokonywaniu wzniesien/podjazdow. Cięzko pisać o konkretnym zastosowaniu tego typu rowerów, ale osoby które poważnie myśla o wykorystaniu roweru w górach powinny skupić się własnie na tej grupie. 
+- najbardziej rozpowszechniony rower w sprzedaży, co powoduje że producenci zalewają rynek produktami marnej jakości (uważaj przy zakupie)
+MTB na poziomie amatorskim, głownie przeznaczony do jazdy w górach. Charakteryzują się one niska waga, lekkimi i wytrzymałymi komponentami (odpornymi na wódę, kurz itp), agresywna pozycja rowerzysty pozwalającą na uzyskanie dużych sił a tym samym łatwym pokonywaniu wzniesien/podjazdow. Cięzko pisać o konkretnym zastosowaniu tego typu rowerów, ale osoby które poważnie myśla o wykorystaniu roweru w górach powinny skupić się własnie na tej grupie. 
 Zalety
 - niska waga (ok 9,5-11kg)
 - agresywna pozycja pozwalająca na efektywne pedalowanie, prędkość średnia na płaskich odcinkach ok 25km/h (pomijajac zawodników i maniaków maratonów rowerowych ;)
